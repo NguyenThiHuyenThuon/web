@@ -1,0 +1,11 @@
+[Sessions.rollback]
+June 04 2023  -  03:14:26=0
+[June 04 2023  -  03:14:26]
+mode=1
+file=C:\Windows\System32\Config\SAM
+system=C:\Windows\System32\Config\SYSTEM
+user=User
+rid=1004
+live2reg=1
+nt=67B25A62EACC76906E9DFAD80AC7602D
+flags=14020000
